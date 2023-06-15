@@ -1,4 +1,7 @@
-/* A program that  prints line with puts function*/
+/**
+ * main - A program that prints a line using puts function
+ * Return: 0
+ */
 #include <stdio.h>
 int main(void)
 {
