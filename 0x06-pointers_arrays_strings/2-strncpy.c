@@ -4,7 +4,7 @@
  * @dest: This is the output dest
  * @src: This is the input source
  * @n: This is the number of bytes to copy
- *Return: 
+ *Return: return (dest)
  */
 
 char *_strncpy(char *dest, char *src, int n)
